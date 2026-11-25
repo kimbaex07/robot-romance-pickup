@@ -1,0 +1,1 @@
+Are you a neural net? Every time I run inference on you, my loss drops to zero — and my weights only ever point at you.
